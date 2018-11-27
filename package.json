@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A calculator exercise for TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Désiré-Lévi Kouablan <desire;levi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jshint": "^2.9.6",
+    "mocha": "^5.2.0"
+  }
+}
